@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1e0VHKh3l2NP2aPFk1eXChbmfnfSsr_HZZxjk-7dzCzs/edit?usp=sharing
 
 Paper title:
 Federated Learning for Medical Image Analysis with Deep Neural Networks 
