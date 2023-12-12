@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/
+https://docs.google.com/presentation/d/1AIFYOb2wyrCk6PSAPmnhtvaqXv9SUIN_tiV11p-7Zm0/edit?usp=sharing
 
 Paper title:
 Federated Learning to Safeguard Patients Data: A Medical Image Retrieval Case
