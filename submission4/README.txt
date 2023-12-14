@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtube.com/
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/
+https://docs.google.com/presentation/d/14-Zx8svLoEHf32wXLoy2eUFRtkLI4Lx_/edit?usp=sharing&ouid=118332941479983485600&rtpof=true&sd=true
 
 Project title:
 A Federated Approach for Classification of Alzheimer's Disease
